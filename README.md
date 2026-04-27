@@ -1,4 +1,4 @@
-# 🏆 Digital Heroes - Impact Through Competition
+# Digital Heroes - Impact Through Competition
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-05998b?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
@@ -10,18 +10,18 @@
 
 ---
 
-## ✨ Features
+## Features
 
--   **🎯 Score-Based Draws**: Submit your performance scores (e.g., Stableford golf scores) to enter exclusive monthly prize draws.
--   **🎗️ Charity Integration**: A percentage of every subscription and win-share is automatically routed to your chosen charity.
--   **💳 Subscription Engine**: Powered by Stripe for seamless monthly and yearly membership management.
--   **📊 Real-time Analytics**: Beautiful dashboards for both users and administrators to track impact and draw results.
--   **🔐 Enterprise Security**: JWT-based authentication with Role-Based Access Control (RBAC).
--   **🚀 Algorithmic Fair Play**: Transparent winning number generation using verifiable random or algorithmic modes.
+-   **Score-Based Draws**: Submit your performance scores (e.g., Stableford golf scores) to enter exclusive monthly prize draws.
+-   **Charity Integration**: A percentage of every subscription and win-share is automatically routed to your chosen charity.
+-   **Subscription Engine**: Powered by Stripe for seamless monthly and yearly membership management.
+-   **Real-time Analytics**: Beautiful dashboards for both users and administrators to track impact and draw results.
+-   **Enterprise Security**: JWT-based authentication with Role-Based Access Control (RBAC).
+-   **Algorithmic Fair Play**: Transparent winning number generation using verifiable random or algorithmic modes.
 
 ---
 
-## 🧩 Core Modules
+## Core Modules
 
 | Module | Description | Tech Highlight |
 | :--- | :--- | :--- |
@@ -33,7 +33,7 @@
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```mermaid
 graph TD
@@ -60,7 +60,7 @@ graph TD
 
 ---
 
-## 📊 Data Relationship Graph
+## Data Relationship Graph
 
 ```mermaid
 erDiagram
@@ -79,7 +79,7 @@ erDiagram
 
 ---
 
-## 🔄 User Journey
+## User Journey
 
 ```mermaid
 sequenceDiagram
@@ -106,7 +106,7 @@ sequenceDiagram
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **Framework**: [Next.js 15+](https://nextjs.org/) (App Router)
@@ -124,7 +124,7 @@ sequenceDiagram
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Backend Setup
 ```bash
@@ -148,7 +148,7 @@ npm run dev
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Digital_heros/
@@ -169,9 +169,8 @@ Digital_heros/
 
 ---
 
-## 📄 License & Contribution
+## License & Contribution
 
 This project is proprietary. For contribution guidelines or licensing inquiries, please contact the development team.
 
----
-<p align="center">Made with ❤️ for the Digital Heroes Community</p>
+
