@@ -1,0 +1,26 @@
+[project]
+name = "digital-heros-backend"
+version = "0.1.0"
+description = "Production-grade backend for Digital Heros platform"
+authors = [{ name = "Antigravity", email = "ai@google.com" }]
+dependencies = [
+    "fastapi",
+    "uvicorn[standard]",
+    "beanie",
+    "motor",
+    "pydantic-settings",
+    "python-jose[cryptography]",
+    "passlib[bcrypt]",
+    "python-multipart",
+    "stripe",
+    "httpx",
+    "jinja2",
+    "python-slugify",
+    "pytest",
+    "pytest-asyncio",
+    "faker"
+]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]

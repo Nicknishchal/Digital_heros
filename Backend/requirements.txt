@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+beanie
+motor
+pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+stripe
+httpx
+jinja2
+python-slugify
+pytest
+pytest-asyncio
+faker

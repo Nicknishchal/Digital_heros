@@ -1,0 +1,43 @@
+# --- OS & IDE ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Backend (Python) ---
+Backend/venv/
+Backend/.env
+Backend/.venv/
+Backend/env/
+Backend/__pycache__/
+Backend/*.py[cod]
+Backend/*$py.class
+Backend/.pytest_cache/
+Backend/static/uploads/*
+Backend/static/db/*
+!Backend/static/uploads/.gitkeep
+!Backend/static/db/.gitkeep
+
+# --- Frontend (Node.js/Next.js) ---
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.env*.local
+frontend/.vercel
+frontend/*.tsbuildinfo
+frontend/next-env.d.ts
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.pnpm-debug.log*
+
+# --- General ---
+.env
+.env.local
+*.log
+dist/
+coverage/
+node_modules/
